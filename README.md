@@ -15,7 +15,7 @@ Reverser: function
 * [Solution Explanation](#solution-explanation)
 * [Language Features](#language-features)
 * [Uses](#uses)
-* [Learning Journal](#learning-journal)
+* [Notes](#notes)
 
 ---
 ## Solution Explanation
@@ -59,7 +59,7 @@ Here are a few applications that could use this function:
 
 ---
 
-## Learning Journal
+## Notes
 
 Things I learned studying this problem:
 * Reading MDN documentation
