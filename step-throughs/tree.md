@@ -5,11 +5,16 @@ Stepping through my solution reversing "tree".
 My solution isn't the most interesting one for step-through-ing.  Basically any valid input will be treated the same.  Solutions using fewer language features and more control flow will be more interesting to step through.
 
 ```js
-function solution(str){
-    var split = str.split(""); 
-    var reverse = split.reverse(); 
-    return reverse.join("") 
-};
+function solution(string) {
+    let reversed_string = "";
+    let temp_array = [];
+    
+    temp_array = string.split("");
+    temp_array = temp_array.reverse();
+    reversed_string = temp_array.join("");
+    
+    return reversed_string;
+}; 
 
 var arg = "tree";
 
