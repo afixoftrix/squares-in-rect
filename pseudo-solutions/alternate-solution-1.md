@@ -1,13 +1,14 @@
 # Alternate Solution 1 
 ```
 solution(str)
-    reversed <-- ""
-    coutner <-- length of str
+    reversed <- ""
+    coutner <- length of str
     While (counter is less than length of str)
         reversed += the counter'th letter in str
         counter --
     End While
     return reversed
+End solution
 ```
 ---
 

@@ -1,12 +1,13 @@
 # Alternate Solution 2
 ```
 solution(str)
-    split <-- str.split("")
-    reversed <-- []
+    split <- str.split("")
+    reversed <- []
     For (i = str.length down to )
         add split[i] to reversed
     End For
-    return <-- reversed.join("")
+    return <- reversed.join("")
+End solution
 ```
 ---
 
