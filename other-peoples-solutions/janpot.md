@@ -25,7 +25,7 @@ Here in an illustration of how this solution would reverse "tree":
     * return "e" + "e"
   * return "ee" + "r"
 * return "eer" + "t"
-* "tree"
+* "eert"
 
 Check out this [page from General Resources](https://elewa-academy.github.io/General-Resources/cs-101/recursion.html) for another recursive solution to this problem.
 

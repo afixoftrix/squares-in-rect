@@ -42,7 +42,7 @@ Reverser: function
     ```
 4. Declare return value, isolate the challenging bit.
     ```
-     solution(string)
+    solution(string)
         reversed_string <- ""
         reverse the string
         return reversed_string
@@ -50,7 +50,7 @@ Reverser: function
     ```
 5. Begin exploring the challenging bit.
     ```
-     solution(string)
+    solution(string)
         reversed_string <- ""
         available options:
             - for or while loops
@@ -61,7 +61,7 @@ Reverser: function
     ```
 6. Continue exploring the challenging bit.
     ```
-     solution(string)
+    solution(string)
         reversed_string <- ""
         available options: String methods
             - String.length
@@ -76,7 +76,7 @@ Reverser: function
     ```
 7. Continue exploring the challenging bit.
     ```
-     solution(string)
+    solution(string)
         reversed_string <- ""
         two possible strategies:
             + convert to array and back to string
@@ -90,7 +90,7 @@ Reverser: function
     ```
 8. Continue exploring the challenging bit.
     ```
-     solution(string)
+    solution(string)
         reversed_string <- ""
         convert to array and back to string
             String.split
@@ -103,7 +103,7 @@ Reverser: function
     ```
 9. Decided on a strategy.
     ```
-     solution(string)
+    solution(string)
         reversed_string <- ""
         convert to array and back to string
             String.split
@@ -114,7 +114,7 @@ Reverser: function
     ```
 10. Refactoring pseudocode closer to real code
     ```
-     solution(string)
+    solution(string)
         reversed_string <- ""
         temp_array = [];
         temp_array <- string.split("")
@@ -125,7 +125,7 @@ Reverser: function
     ```
 11. Convert pseudocode to real code.
     ```js
-     function solution(string) {
+    function solution(string) {
         let reversed_string = "";
         let temp_array = [];
         
