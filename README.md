@@ -152,7 +152,6 @@ This solution works in 4 steps:
 
 This problem is pretty simple so I didn't have to use any particular problem solving techniques.  A step-by-step solution was good enough since I was able to find native JS methods to do the work for me.
 
-(The solution used in this demo was written by [MzLovelyj](https://www.codewars.com/users/MzLovelyj))
 
 [TOP](#index)
 

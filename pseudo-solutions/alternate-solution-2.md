@@ -13,7 +13,7 @@ End solution
 
 ### Solution Explained:
 
-This solution is a mix of MzLovelyj's strategy and Fabricelepro's strategy.  It begins like Mz's by splitting the argument into an array, but then reverses the array elements using the same strategy as Fabricelepro.  It finishes the same way as Mz's by joining the reversed array into a string.
+This solution is a mix of my strategy and Fabricelepro's strategy.  It begins like mine by splitting the argument into an array, but then reverses the array elements using the same strategy as Fabricelepro.  It finishes the same way as mine by joining the reversed array into a string.
 
 
 ___
