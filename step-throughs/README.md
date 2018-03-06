@@ -1,1 +1,1 @@
-These files contain a step-by-step description of how JS executes my solution on 3 specific inputs.
+These files contain a step-by-step description of how JS executes my solution.
