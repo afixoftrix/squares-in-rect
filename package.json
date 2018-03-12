@@ -1,0 +1,12 @@
+{
+  "name": "Algorithm-Tmpl",
+  "version": "1.0.0",
+  "description": "elewa bootcamp template for documenting codewar algorithms",
+  "main": "index.js",
+  "repository": "git@github.com:afixoftrix/String-Reverser.git",
+  "author": "Unwana Essien <unwana.essien@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-markdown": "^1.0.0-beta.6"
+  }
+}

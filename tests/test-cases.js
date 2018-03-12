@@ -1,3 +1,5 @@
+// This is where your write the test cases for the code.
+
 tests({
 
   'eert': function() {
