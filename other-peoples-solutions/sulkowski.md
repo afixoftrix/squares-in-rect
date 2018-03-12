@@ -33,7 +33,7 @@ Here are some features used by Sulkowski:
 * Spread Operator (ES6)
 * Defaut Parameters (ES6)
 * Math.max()
-* Math.mn()
+* Math.min()
 * Recursion
 
 ___

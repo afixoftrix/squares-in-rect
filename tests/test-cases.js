@@ -2,9 +2,10 @@
 
 tests({
 
-  'eert': function() {
-    eq("tree", solution("eert"));
-  },
+  'fives': function() {
+    eq([3, 2, 1, 1], solution(3,5));
+  }
+  /*,
   'car': function() {
     eq("rac", solution("car"));
   },
@@ -17,5 +18,5 @@ tests({
   '##&][&##': function() {
     eq("##&][&##", solution("##&][&##"));
   }
-
+*/
 });

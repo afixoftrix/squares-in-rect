@@ -1,6 +1,6 @@
 // this is were your solution for a codewar algorithm should go
 
-function sqInRect(lng, wdth) {
+function solution(lng, wdth) {
     function recompare(x, y, squaresStore) {
         let big, small;
         const dimension = x > y ? { big: x, small: y } : { big: y, small: x };
